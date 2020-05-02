@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">BDRecibos</string>
+    <string name="action_listar">Listar</string>
+    <string name="action_actualizar">Actualizar</string>
+    <string name="action_eliminar">Eliminar</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="texto_recibo_nuevo">Nuevo Recibo</string>
+    <string name="texto_recibo_actualizar">Recibo #</string>
+
+    <string name="texto_tipo_recibo">Recibo de:</string>
+    <string name="txt_recibo_gas">GAS</string>
+    <string name="txt_recibo_energia">ENERGIA</string>
+    <string name="txt_recibo_agua">AGUA</string>
+    <string name="txt_recibo_telefonia">TELEFONIA</string>
+
+    <string name="texto_direccion">Direccion:</string>
+    <string name="texto_medida">Medida:</string>
+    <string name="texto_valor">Valor:</string>
+    <string name="boton_guardar">GUARDAR</string>
+    <string name="boton_listado">LISTADO</string>
+    <string name="boton_actualizar">ACTUALIZAR</string>
+</resources>
